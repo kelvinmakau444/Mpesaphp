@@ -52,7 +52,7 @@
         'PartyA' => $phone,
         'PartyB' => '174379',
         'PhoneNumber' => $phone,
-        'CallBackURL' => 'https://www.erickogi.co.ke/Mpesaphp/callback.php',
+        'CallBackURL' => 'https://www.test.co.ke/Mpesaphp/callback.php',
         'AccountReference' => '4352',
         'TransactionDesc' => ' Pay'
     );
