@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: kogi
- * Date: 4/6/18
- * Time: 10:28 AM
- */
+
 
   $phone = $_POST["phone"];
     $amount = $_POST["amount"];
