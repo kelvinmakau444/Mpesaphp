@@ -1,12 +1,7 @@
 <?php
 @require_once('DbConnect.php');
 
-/**
- * Created by PhpStorm.
- * User: Eric
- * Date: 2/15/2018
- * Time: 6:47 PM
- */
+
 class Operations{
     private $conn;
    
