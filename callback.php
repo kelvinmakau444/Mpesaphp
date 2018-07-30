@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: kogi
- * Date: 4/6/18
- * Time: 12:35 PM
- */
 
 
 include './Operations.php';
